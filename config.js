@@ -5,11 +5,11 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "NICOLE",
+    valentineName: "Nicole my Langga😘",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Will You Be My Valentine? 💝",
+    pageTitle: "Will You Be My Valentine? 🥹👉🏻👈🏻🤙🏻eyy💝",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -44,14 +44,14 @@ const CONFIG = {
     loveMessages: {
         extreme: "WOOOOW heheheh oki I love you moree😘😘😘",  // Shows when they go past 5000%
         high: "WEHHH para sa kabet mo lng ni guro🥹",              // Shows when they go past 1000%
-        normal: "100% lang!?🙄"                           // Shows when they go past 100%
+        normal: "amo lang na!?🙄"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        message: "Come with me and venture bacolod😘",
+        emojis: "🎁💖🤗💝💋❤️💕💦"  // These will bounce around
     },
 
     // Color scheme for the website
@@ -67,10 +67,10 @@ const CONFIG = {
     // Animation settings
     // Adjust these if you want faster/slower animations
     animations: {
-        floatDuration: "15s",           // How long it takes hearts to float up (10-20s recommended)
-        floatDistance: "50px",          // How far hearts move sideways (30-70px recommended)
-        bounceSpeed: "0.5s",            // Speed of bouncing animations (0.3-0.7s recommended)
-        heartExplosionSize: 1.5         // Size of heart explosion effect (1.2-2.0 recommended)
+        floatDuration: "20s",           // How long it takes hearts to float up (10-20s recommended)
+        floatDistance: "70px",          // How far hearts move sideways (30-70px recommended)
+        bounceSpeed: "0.8s",            // Speed of bouncing animations (0.3-0.7s recommended)
+        heartExplosionSize: 1.3         // Size of heart explosion effect (1.2-2.0 recommended)
     },
 
     // Background Music (Optional)
